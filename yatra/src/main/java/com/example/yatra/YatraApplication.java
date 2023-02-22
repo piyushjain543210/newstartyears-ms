@@ -1,15 +1,13 @@
-package com.example.newstartyears;
+package com.example.yatra;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class
-
-NewstartyearsApplication {
+public class YatraApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(NewstartyearsApplication.class, args);
+		SpringApplication.run(YatraApplication.class, args);
 	}
 
 }
